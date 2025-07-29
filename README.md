@@ -20,3 +20,8 @@
 - Tools & Practices: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![API](https://img.shields.io/badge/API-0078D7?style=flat) ![BA](https://img.shields.io/badge/Business%20Analysis-9B59B6?style=flat) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 - Fundamentals: ![OOP](https://img.shields.io/badge/OOP-FF8C00?style=flat) ![Training Models](https://img.shields.io/badge/Train%20Model-34495E?style=flat)
+  
+## 📫 Get in touch!
+Feel free to connect with me via:
+- *Email*: kieuhuynhfw@gmail.com
+- *LinkedIn*: https://www.linkedin.com/in/kieu-huynh-48ab38272/
