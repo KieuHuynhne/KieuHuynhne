@@ -24,4 +24,4 @@
 ## 📫 Get in touch!
 Feel free to connect with me via:
 - *Email*: kieuhuynhfw@gmail.com
-- *LinkedIn*: https://www.linkedin.com/in/kieu-huynh-48ab38272/
+- *Linkedin*: https://www.linkedin.com/in/kieu-huynh-48ab38272/
